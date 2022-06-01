@@ -1,7 +1,6 @@
 Hi there 👋
 - 🔭 I’m currently working on ReactNative
 - 🌱 I’m currently learning ReactNative 
-- Vue, Vuex, Vuetify
 - React, Redux
 
 
