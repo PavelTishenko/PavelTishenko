@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi there 👋 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">
+  Hi there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <!--  -->
 <p align="center">
   <a href="https://github.com/PavelTishenko"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+Native+Engineer" alt="Typing SVG" /></a>
